@@ -1,2 +1,2 @@
 # datasciencecoursera
-data science work files
+data science course work files
